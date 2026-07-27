@@ -74,6 +74,29 @@ Retail-Sales-Performance-Report/
 └── README.md                        # Project documentation
 
 ---
+## 🖼️ Screenshots
+
+### Dashboard Overview
+![Dashboard Overview] <img width="1422" height="742" alt="Screenshot 2026-07-27 150415" src="https://github.com/user-attachments/assets/4634a24c-f121-419e-aec5-ef549dd7ff5b" />
+
+
+### Sales by Category
+![Sales by Category] <img width="1860" height="753" alt="Screenshot 2026-07-27 151502" src="https://github.com/user-attachments/assets/66a30d32-a2a1-4076-af3c-92ba0323c3c8" />
+
+
+### Sales by City
+![Sales by City] <img width="1862" height="746" alt="Screenshot 2026-07-27 151522" src="https://github.com/user-attachments/assets/d6365308-cb6e-4256-bac0-d2a4f583da9d" />
+
+
+---
+## 🤝 Contributing
+Contributions are welcome!  
+- Fork the repo  
+- Create a new branch  
+- Commit your changes  
+- Open a Pull Request  
+
+---
 
 ## 🔗 Connect with Me
 - LinkedIn: [Anvar on LinkedIn] https://www.linkedin.com/in/anvar-sayfullayev-826092274/
