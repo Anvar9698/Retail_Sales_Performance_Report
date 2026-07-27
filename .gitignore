@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Power BI autosave/backup files
+*.pbix~
+*.pbit~
+
+# Excel/CSV temporary files
+~$*.csv
+~$*.xlsx
+
+# IDE/project settings
+.vscode/
+.idea/
